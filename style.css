@@ -1,9 +1,22 @@
+body {
+	background: #ec1c24;
+}
+.wrapper {
+	margin: 0 auto;
+	overflow: hidden;
+	width: 250px;
+	height: 270px;
+	background: #ec1c24;
+	border-radius: 10px;
+	border: 1px solid #ec1c24;
+}
 .main {
 	margin: 0 auto;
 	margin-top: 5px;
 	width: 220px;
 }
 .display input {
+	background: #ffffff;
 	margin: 0 auto;
 	overflow: hidden;
 	width: 207px;
@@ -12,6 +25,7 @@
 	font-size: 24px;
 }
 .buttons input {
+	background: #ff7f27;
 	margin: 0 auto;
 	overflow: hidden;
 	width: 50px;
